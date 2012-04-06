@@ -1,0 +1,6 @@
+bin/
+obj/
+/src/*.suo
+/src/packages
+!/src/packages/repositories.config
+/src/_ReSharper.SuperCliente
